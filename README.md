@@ -1,4 +1,4 @@
-CRM Lite - Customer Relationship Management API
+![image](https://github.com/user-attachments/assets/70ea6e95-f3af-4efc-b669-f3584fd15180)CRM Lite - Customer Relationship Management API
 
 
 📌 Project Description
@@ -27,39 +27,7 @@ Maven (dependency management)
 
 📂 Project Structure
 
-📦 src/main/java/com/etiya/crmlite
- ┣ 📂 api/controllers
- ┃ ┣ 📜 CustomersController.java
- ┃ ┣ 📜 IndsController.java
- ┣ 📂 business
- ┃ ┣ 📂 abstracts/cam
- ┃ ┃ ┣ 📜 AddrService.java
- ┃ ┃ ┣ 📜 CntcMediumService.java
- ┃ ┃ ┣ 📜 CustomerService.java
- ┃ ┃ ┣ 📜 CustTpService.java
- ┃ ┃ ┣ 📜 IndService.java
- ┃ ┃ ┣ 📜 PartyRoleService.java
- ┃ ┃ ┣ 📜 PartyRoleTpService.java
- ┃ ┃ ┣ 📜 PartyService.java
- ┃ ┣ 📂 concretes/cam
- ┃ ┃ ┣ 📜 AddrManager.java
- ┃ ┃ ┣ 📜 CntcMediumManager.java
- ┃ ┃ ┣ 📜 CustomerManager.java
- ┃ ┃ ┣ 📜 CustTpManager.java
- ┃ ┃ ┣ 📜 IndManager.java
- ┃ ┃ ┣ 📜 PartyRoleManager.java
- ┃ ┃ ┣ 📜 PartyRoleTpManager.java
- ┃ ┃ ┣ 📜 PartyManager.java
- ┣ 📂 constants
- ┃ ┣ 📜 ApiPrefix.java
- ┃ ┣ 📜 Messages.java
- ┣ 📂 dtos
- ┃ ┣ 📂 requests
- ┃ ┣ 📂 response
- ┣ 📂 core
- ┣ 📂 entities
- ┣ 📂 repositories
- ┣ 📜 CrmLiteApplication.java
+![image](https://github.com/user-attachments/assets/1be3a64c-70ed-4fc2-853b-0c2922f2d544)
 
 
 📢 Features
