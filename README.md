@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/70ea6e95-f3af-4efc-b669-f3584fd15180)CRM Lite - Customer Relationship Management API
+CRM Lite - Customer Relationship Management API
 
 
 📌 Project Description
