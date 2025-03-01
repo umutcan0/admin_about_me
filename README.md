@@ -70,4 +70,9 @@ If you want to contribute to the project, feel free to submit a pull request or 
 📜 License
 
 Distributed under the MIT License. See the LICENSE file for more details.
+
+
+📌 Author
+
+Umut Can BAL - Java |Spring Boot - Backend Developer | Passionate about Microservices & Scalable Applications
  
