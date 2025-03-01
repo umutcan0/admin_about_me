@@ -32,12 +32,12 @@ Maven (dependency management)
 
 📢 Features
 
-✅ Customer Management: Add, update, and delete customers.
-✅ Communication Management: Manage customer contact information.
-✅ Service Management: APIs for managing user roles, orders, and customer groups.
-✅ DTO Implementation: Manage data flow with Data Transfer Objects.
-✅ Layered Architecture: Separation of Controller, Service, and Repository for a flexible and scalable structure.
-✅ Validation & Exception Handling: Robust structure against user errors.
+✅ Customer Management: Add, update, and delete customers.  
+✅ Communication Management: Manage customer contact information.  
+✅ Service Management: APIs for managing user roles, orders, and customer groups.  
+✅ DTO Implementation: Manage data flow with Data Transfer Objects.  
+✅ Layered Architecture: Separation of Controller, Service, and Repository for a flexible and scalable structure.  
+✅ Validation & Exception Handling: Robust structure against user errors.  
 
 
 ⚡ Installation & Running
